@@ -26,3 +26,4 @@ Este projeto em Python permite ao usuário:
 - Manipulação de listas e dicionários
 
 - Escrita de arquivos com `open()`
+
